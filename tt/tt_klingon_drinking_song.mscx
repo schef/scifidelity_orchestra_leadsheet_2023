@@ -181,7 +181,7 @@
             <transposingClefType>F</transposingClefType>
             </Clef>
           <KeySig>
-            <accidental>-4</accidental>
+            <accidental>0</accidental>
             </KeySig>
           <TimeSig>
             <sigN>4</sigN>
@@ -197,8 +197,8 @@
               <text>'ej</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -210,8 +210,8 @@
               <text>Hum</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -221,7 +221,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>10</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -231,8 +231,8 @@
               <text>taH</text>
               </Lyrics>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -243,14 +243,14 @@
               <text>'ej</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>9</root>
+            <root>13</root>
             <name>(Gb)</name>
             </Harmony>
           <Chord>
@@ -260,8 +260,8 @@
               <text>Dech</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -274,8 +274,8 @@
               <text>taH</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -285,7 +285,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
+            <root>15</root>
             <name>sus4</name>
             </Harmony>
           <Chord>
@@ -295,8 +295,8 @@
               <text>'Iw</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -305,7 +305,7 @@
             <fractions>-1/4</fractions>
             </location>
           <Harmony>
-            <root>11</root>
+            <root>15</root>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -316,8 +316,8 @@
               <text>'ej</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -328,8 +328,8 @@
               <text>Doq</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -339,7 +339,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>10</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -348,8 +348,8 @@
               <text>SoD</text>
               </Lyrics>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -362,14 +362,14 @@
               <text>taH</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>9</root>
+            <root>13</root>
             <name>(Gb)</name>
             </Harmony>
           <Chord>
@@ -379,8 +379,8 @@
               <text>ghoS</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -393,8 +393,8 @@
               <text>pa'</text>
               </Lyrics>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -407,7 +407,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>11</root>
+            <root>15</root>
             <name>sus4</name>
             </Harmony>
           <Chord>
@@ -416,8 +416,8 @@
               <text>Sqral</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -429,14 +429,14 @@
               <text>bIQ</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>11</root>
+            <root>15</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -446,8 +446,8 @@
               <text>tIq</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -458,8 +458,8 @@
               <text>'e'</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -470,8 +470,8 @@
               <text>pa'</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -481,8 +481,8 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>10</root>
-            <base>14</base>
+            <root>14</root>
+            <base>18</base>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -490,8 +490,8 @@
               <text>jaj</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -502,14 +502,14 @@
               <text>law'</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>11</root>
+            <root>15</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -517,8 +517,8 @@
               <text>mo'</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -529,8 +529,8 @@
               <text>jaj</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -540,7 +540,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>13</root>
+            <root>17</root>
             <name>m7</name>
             </Harmony>
           <Chord>
@@ -550,8 +550,8 @@
               <text>puS</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -562,8 +562,8 @@
               <text>jaj</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -573,7 +573,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>8</root>
+            <root>12</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -585,8 +585,8 @@
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
-              <pitch>66</pitch>
-              <tpc>8</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -599,14 +599,14 @@
               <text>lIS</text>
               </Lyrics>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>7</root>
+            <root>11</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -615,8 +615,8 @@
               <text>mo</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -629,8 +629,8 @@
               <text>lar</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -640,7 +640,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
+            <root>15</root>
             <name>sus4</name>
             </Harmony>
           <Chord>
@@ -649,8 +649,8 @@
               <text>mIgh</text>
               </Lyrics>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -662,12 +662,12 @@
               <text>HoH</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Harmony>
-            <root>11</root>
+            <root>15</root>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -679,8 +679,8 @@
               <text>chu'</text>
               </Lyrics>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -690,7 +690,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>10</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -699,8 +699,8 @@
               <text>qu'</text>
               </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -726,7 +726,7 @@
             <transposingClefType>F</transposingClefType>
             </Clef>
           <KeySig>
-            <accidental>-3</accidental>
+            <accidental>1</accidental>
             </KeySig>
           <TimeSig>
             <sigN>4</sigN>
@@ -735,9 +735,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -745,9 +745,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>13</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -757,8 +757,18 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
+            <root>15</root>
             </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>19</tpc2>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -769,26 +779,16 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
           <Harmony>
-            <root>10</root>
+            <root>14</root>
             <name>(Gb)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
-              <tpc2>10</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -796,9 +796,9 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>13</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -808,16 +808,16 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>12</root>
+            <root>16</root>
             <name>sus4</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -826,7 +826,7 @@
             <fractions>-1/4</fractions>
             </location>
           <Harmony>
-            <root>12</root>
+            <root>16</root>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -834,9 +834,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -844,9 +844,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>13</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -856,8 +856,18 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
+            <root>15</root>
             </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>19</tpc2>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -868,26 +878,16 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
           <Harmony>
-            <root>10</root>
+            <root>14</root>
             <name>(Gb)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
-              <tpc2>10</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -895,9 +895,9 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>13</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -907,15 +907,15 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>12</root>
+            <root>16</root>
             <name>sus4</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -923,22 +923,22 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>12</root>
+            <root>16</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -946,9 +946,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -956,9 +956,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -968,15 +968,15 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
-            <base>15</base>
+            <root>15</root>
+            <base>19</base>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -984,22 +984,22 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
             </Chord>
           <Harmony>
-            <root>12</root>
+            <root>16</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1007,9 +1007,9 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1019,16 +1019,16 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>14</root>
+            <root>18</root>
             <name>m7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1036,9 +1036,9 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1048,17 +1048,40 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>9</root>
+            <root>13</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <pitch>66</pitch>
-              <tpc>8</tpc>
-              <tpc2>9</tpc2>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              <tpc2>13</tpc2>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>18</tpc2>
+              <velocity>100</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Harmony>
+            <root>12</root>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1073,43 +1096,20 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Harmony>
-            <root>8</root>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
-              <tpc2>10</tpc2>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
-            <root>12</root>
+            <root>16</root>
             <name>sus4</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>12</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>16</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1118,14 +1118,14 @@
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
-            <root>12</root>
+            <root>16</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>9</tpc>
-              <tpc2>10</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1133,9 +1133,9 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>15</tpc2>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -1145,14 +1145,14 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>11</root>
+            <root>15</root>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              <tpc2>11</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>

@@ -655,12 +655,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Harmony>
-            <root>11</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -670,10 +664,14 @@
             <Note>
               <pitch>61</pitch>
               <tpc>9</tpc>
-              <velocity>100</velocity>
-              <veloType>user</veloType>
               </Note>
             </Chord>
+          <Harmony>
+            <root>11</root>
+            </Harmony>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
