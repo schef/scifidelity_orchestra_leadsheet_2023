@@ -7,6 +7,9 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
+      <chordSymbolAFontSize>13</chordSymbolAFontSize>
+      <useStandardNoteNames>0</useStandardNoteNames>
+      <useGermanNoteNames>1</useGermanNoteNames>
       <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
       <Spatium>1.74978</Spatium>
       </Style>
@@ -35,14 +38,8 @@
           </StaffType>
         <barLineSpan>1</barLineSpan>
         </Staff>
-      <Staff id="2">
-        <StaffType group="pitched">
-          <name>stdNormal</name>
-          </StaffType>
-        </Staff>
       <trackName>Piano, melodija</trackName>
       <Instrument id="piano">
-        <shortName>Pno.</shortName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
@@ -100,6 +97,68 @@
           </Channel>
         </Instrument>
       </Part>
+    <Part>
+      <Staff id="2">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          </StaffType>
+        <defaultClef>F</defaultClef>
+        </Staff>
+      <trackName>Piano</trackName>
+      <Instrument id="piano">
+        <trackName>Piano</trackName>
+        <minPitchP>21</minPitchP>
+        <maxPitchP>108</maxPitchP>
+        <minPitchA>21</minPitchA>
+        <maxPitchA>108</maxPitchA>
+        <instrumentId>keyboard.piano</instrumentId>
+        <clef staff="2">F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>95</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
     <Staff id="1">
       <VBox>
         <height>10</height>
@@ -123,18 +182,18 @@
             </TimeSig>
           <Tempo>
             <tempo>2.8333333333333335</tempo>
-            <offset x="-4.93548" y="-4.00806"/>
+            <offset x="-6.38709" y="-3.28225"/>
             <text><sym>metNoteQuarterUp</sym> = 170</text>
             </Tempo>
+          <RehearsalMark>
+            <offset x="-9.43548" y="-6.13516"/>
+            <text>U</text>
+            </RehearsalMark>
           <Harmony>
             <root>16</root>
             <name>m7</name>
             <base>13</base>
             </Harmony>
-          <RehearsalMark>
-            <offset x="-9.43548" y="-6.13516"/>
-            <text>U</text>
-            </RehearsalMark>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -987,14 +1046,14 @@
       <Measure>
         <startRepeat/>
         <voice>
+          <RehearsalMark>
+            <text>A12</text>
+            </RehearsalMark>
           <Harmony>
             <root>15</root>
             <name>m7</name>
             <base>12</base>
             </Harmony>
-          <RehearsalMark>
-            <text>A12</text>
-            </RehearsalMark>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1450,13 +1509,13 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <text>B</text>
+            </RehearsalMark>
           <Harmony>
             <root>16</root>
             <name>7</name>
             </Harmony>
-          <RehearsalMark>
-            <text>B</text>
-            </RehearsalMark>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1781,14 +1840,14 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <text>A3</text>
+            </RehearsalMark>
           <Harmony>
             <root>15</root>
             <name>m7</name>
             <base>12</base>
             </Harmony>
-          <RehearsalMark>
-            <text>A3</text>
-            </RehearsalMark>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2257,10 +2316,6 @@
     <Staff id="2">
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <KeySig>
             <accidental>-1</accidental>
             </KeySig>
