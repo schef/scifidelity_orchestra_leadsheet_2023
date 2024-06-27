@@ -84,13 +84,11 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="open">
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="57"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="mute">
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="59"/>
           <synti>Fluid</synti>
@@ -115,8 +113,6 @@
         <maxPitchP>74</maxPitchP>
         <minPitchA>40</minPitchA>
         <maxPitchA>71</maxPitchA>
-        <transposeDiatonic>3</transposeDiatonic>
-        <transposeChromatic>5</transposeChromatic>
         <instrumentId>brass.trombone</instrumentId>
         <clef>F</clef>
         <Articulation>
@@ -160,13 +156,11 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="open">
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="57"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="mute">
-          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="59"/>
           <synti>Fluid</synti>
@@ -2228,6 +2222,9 @@
     <Staff id="2">
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -2243,7 +2240,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2263,7 +2259,6 @@
                 </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2274,7 +2269,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2287,7 +2281,6 @@
                 </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2297,7 +2290,6 @@
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2314,7 +2306,6 @@
                 </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2325,7 +2316,6 @@
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2335,7 +2325,6 @@
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <tpc2>13</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2345,7 +2334,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2362,7 +2350,6 @@
                 </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2372,7 +2359,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2397,7 +2383,6 @@
                 </Spanner>
               <pitch>51</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2424,7 +2409,6 @@
                 </Spanner>
               <pitch>51</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2446,7 +2430,6 @@
                 </Spanner>
               <pitch>51</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2459,7 +2442,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2476,7 +2458,6 @@
                 </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2487,7 +2468,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2500,7 +2480,6 @@
                 </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2510,7 +2489,6 @@
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2527,7 +2505,6 @@
                 </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2538,7 +2515,6 @@
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2548,7 +2524,6 @@
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <tpc2>13</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2558,7 +2533,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2575,7 +2549,6 @@
                 </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2585,7 +2558,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2610,7 +2582,6 @@
                 </Spanner>
               <pitch>51</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2627,7 +2598,6 @@
                 </Spanner>
               <pitch>51</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2647,7 +2617,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2657,7 +2626,6 @@
             <Note>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2667,7 +2635,6 @@
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
-              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2677,7 +2644,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2703,7 +2669,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2738,7 +2703,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2755,7 +2719,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2768,7 +2731,6 @@
                 </Accidental>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2788,7 +2750,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2798,7 +2759,6 @@
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
-              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2808,7 +2768,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2831,7 +2790,6 @@
                 </Spanner>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <tpc2>13</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2854,7 +2812,6 @@
                 </Spanner>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <tpc2>13</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2864,7 +2821,6 @@
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <tpc2>18</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2874,7 +2830,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2897,7 +2852,6 @@
                 </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2907,7 +2861,6 @@
             <Note>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2917,7 +2870,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2940,7 +2892,6 @@
                 </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2972,7 +2923,6 @@
                 </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2989,7 +2939,6 @@
                 </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -2999,7 +2948,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3019,7 +2967,6 @@
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <tpc2>13</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3032,7 +2979,6 @@
                 </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3042,7 +2988,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3068,7 +3013,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3100,7 +3044,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3117,7 +3060,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3130,7 +3072,6 @@
                 </Accidental>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3153,7 +3094,6 @@
                 </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3175,7 +3115,6 @@
                 </Accidental>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <tpc2>18</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3185,7 +3124,6 @@
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3195,7 +3133,6 @@
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3213,7 +3150,6 @@
                 </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3223,7 +3159,6 @@
             <Note>
               <pitch>63</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3233,7 +3168,6 @@
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3249,7 +3183,6 @@
                 </Accidental>
               <pitch>61</pitch>
               <tpc>9</tpc>
-              <tpc2>10</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3259,7 +3192,6 @@
             <Note>
               <pitch>61</pitch>
               <tpc>9</tpc>
-              <tpc2>10</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3273,7 +3205,6 @@
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3289,7 +3220,6 @@
                 </Accidental>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3299,7 +3229,6 @@
             <Note>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3309,7 +3238,6 @@
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <tpc2>13</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3319,7 +3247,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3346,7 +3273,6 @@
                 </Spanner>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3363,7 +3289,6 @@
                 </Spanner>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3376,7 +3301,6 @@
                 </Accidental>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <tpc2>18</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3396,7 +3320,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3406,7 +3329,6 @@
             <Note>
               <pitch>48</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3416,7 +3338,6 @@
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
-              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3426,7 +3347,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3452,7 +3372,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3484,7 +3403,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3501,7 +3419,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3514,7 +3431,6 @@
                 </Accidental>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3534,7 +3450,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3544,7 +3459,6 @@
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
-              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3554,7 +3468,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3577,7 +3490,6 @@
                 </Spanner>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <tpc2>13</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3603,7 +3515,6 @@
                 </Spanner>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <tpc2>13</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3613,7 +3524,6 @@
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <tpc2>18</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3623,7 +3533,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3646,7 +3555,6 @@
                 </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3656,7 +3564,6 @@
             <Note>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3666,7 +3573,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3689,7 +3595,6 @@
                 </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3721,7 +3626,6 @@
                 </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3738,7 +3642,6 @@
                 </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <tpc2>19</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3748,7 +3651,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3768,7 +3670,6 @@
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <tpc2>13</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3781,7 +3682,6 @@
                 </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3791,7 +3691,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3817,7 +3716,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3849,7 +3747,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3866,7 +3763,6 @@
                 </Spanner>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3879,7 +3775,6 @@
                 </Accidental>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3902,7 +3797,6 @@
                 </Accidental>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3924,7 +3818,6 @@
                 </Accidental>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <tpc2>18</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3934,7 +3827,6 @@
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3944,7 +3836,6 @@
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3962,7 +3853,6 @@
                 </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3972,7 +3862,6 @@
             <Note>
               <pitch>63</pitch>
               <tpc>11</tpc>
-              <tpc2>12</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3982,7 +3871,6 @@
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -3998,7 +3886,6 @@
                 </Accidental>
               <pitch>61</pitch>
               <tpc>9</tpc>
-              <tpc2>10</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4008,7 +3895,6 @@
             <Note>
               <pitch>61</pitch>
               <tpc>9</tpc>
-              <tpc2>10</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4022,7 +3908,6 @@
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4038,7 +3923,6 @@
                 </Accidental>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4048,7 +3932,6 @@
             <Note>
               <pitch>59</pitch>
               <tpc>7</tpc>
-              <tpc2>8</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4058,7 +3941,6 @@
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
-              <tpc2>13</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4068,7 +3950,6 @@
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4095,7 +3976,6 @@
                 </Spanner>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4112,7 +3992,6 @@
                 </Spanner>
               <pitch>56</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4125,7 +4004,6 @@
                 </Accidental>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <tpc2>18</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4145,7 +4023,6 @@
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              <tpc2>15</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4155,7 +4032,6 @@
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4165,7 +4041,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4178,7 +4053,6 @@
                 </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4188,7 +4062,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4198,7 +4071,6 @@
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4212,7 +4084,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4225,7 +4096,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4241,7 +4111,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4261,7 +4130,6 @@
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4271,7 +4139,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4284,7 +4151,6 @@
                 </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
-              <tpc2>11</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4294,7 +4160,6 @@
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
-              <tpc2>14</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
@@ -4304,7 +4169,6 @@
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <tpc2>17</tpc2>
               <velocity>100</velocity>
               <veloType>user</veloType>
               </Note>
